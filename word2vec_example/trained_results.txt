@@ -1,0 +1,248 @@
+Found and verified text8.zip
+Data size 17005207
+Most common words (+UNK) [['UNK', 418391], ('the', 1061396), ('of', 593677), ('and', 416629), ('one', 411764)]
+Sample data [5242, 3081, 12, 6, 195, 2, 3135, 46, 59, 156] ['anarchism', 'originated', 'as', 'a', 'term', 'of', 'abuse', 'first', 'used', 'against']
+3081 originated -> 5242 anarchism
+3081 originated -> 12 as
+12 as -> 3081 originated
+12 as -> 6 a
+6 a -> 12 as
+6 a -> 195 term
+195 term -> 2 of
+195 term -> 6 a
+2017-05-18 04:38:08.471330: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-18 04:38:08.471893: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-18 04:38:08.472214: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-18 04:38:08.472819: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-18 04:38:08.473204: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-18 04:38:08.473556: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-18 04:38:08.473939: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-18 04:38:08.474574: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+Initialized
+Average loss at step  0 :  271.761016846
+Nearest to use: tetum, burgh, galilei, remarried, camera, suddenly, fermilab, groin,
+Nearest to over: dissident, longsword, superhero, luminous, ensign, tsvetaeva, napo, experts,
+Nearest to and: float, parkinson, tw, deductive, stoney, maximin, velde, pocketing,
+Nearest to two: comers, managers, mist, stalks, ifc, livelihood, collectivist, retells,
+Nearest to may: juniors, commitments, predators, appeals, reconnection, puns, thrill, sopra,
+Nearest to the: boiled, jasmuheen, marcion, sinkholes, rp, cast, porta, neck,
+Nearest to on: sdtv, spans, enoch, steyn, arbitrators, sacs, franchisees, cyanides,
+Nearest to three: reportage, amass, wilkinson, macromolecules, gigante, tall, braddock, eras,
+Nearest to united: clyde, hur, wavering, sides, courses, fiery, sbs, samos,
+Nearest to his: avalanche, groundwork, ashamed, retro, arminians, inhabitant, vax, qing,
+Nearest to after: corporatist, spaces, confounding, woolen, hopf, velarized, schweitzer, worldview,
+Nearest to years: overdue, hernando, vilified, sights, burali, staunchly, demyelinating, geyser,
+Nearest to it: overwhelmingly, cheque, etch, cranial, boxcar, contractions, rard, lured,
+Nearest to its: toc, decibels, thaddeus, appeared, cosmopolitan, cameo, loach, superheroes,
+Nearest to most: affiliates, lancashire, breeders, jon, wrestle, echolocation, pixel, eldridge,
+Nearest to there: indication, afars, latinized, order, malignancies, fry, stevens, tom,
+Average loss at step  2000 :  113.942089687
+Average loss at step  4000 :  51.8956367621
+Average loss at step  6000 :  32.9576867552
+Average loss at step  8000 :  23.4748288569
+Average loss at step  10000 :  18.1930101229
+Nearest to use: suddenly, camera, bckgr, multicultural, says, ngc, angle, venice,
+Nearest to over: dissident, ngc, experts, expeditions, you, sailor, anarcho, nitrogen,
+Nearest to and: in, of, or, UNK, zero, the, s, altenberg,
+Nearest to two: one, nine, altenberg, six, five, three, groundwater, zero,
+Nearest to may: appeals, liz, predators, hippopotamus, scarlet, soviet, sculpture, the,
+Nearest to the: a, and, england, UNK, his, lymphoma, coke, nine,
+Nearest to on: in, by, of, and, animation, as, silurian, intelligence,
+Nearest to three: archie, eight, nine, zero, asperger, two, five, six,
+Nearest to united: gb, occupied, sides, thought, hair, constitution, understanding, grandparents,
+Nearest to his: their, the, andy, bckgr, review, inhabitant, contrasted, one,
+Nearest to after: deke, company, martin, moreover, spaces, corporatist, coke, phi,
+Nearest to years: six, sights, four, staunchly, vintage, reigning, late, variation,
+Nearest to it: he, fao, waterways, exodus, aalborg, UNK, philosophical, describes,
+Nearest to its: the, appeared, toc, necronomicon, sx, feature, components, crossing,
+Nearest to most: affiliates, highway, circa, producing, painted, kane, indeed, taliban,
+Nearest to there: stevens, malignancies, order, indication, ngc, gained, chronically, stages,
+Average loss at step  12000 :  14.3772230206
+Average loss at step  14000 :  11.7981924902
+Average loss at step  16000 :  9.99504407871
+Average loss at step  18000 :  8.53491649878
+Average loss at step  20000 :  8.06611733568
+Nearest to use: suddenly, agouti, multicultural, apuleius, bckgr, circ, dasyprocta, venice,
+Nearest to over: expeditions, dissident, experts, and, circ, carnegie, nitrogen, three,
+Nearest to and: or, in, agouti, of, dasyprocta, for, operatorname, archie,
+Nearest to two: three, one, five, agouti, six, dasyprocta, eight, nine,
+Nearest to may: predators, would, ulyanov, hippopotamus, conjunction, thelema, to, did,
+Nearest to the: a, his, dasyprocta, this, agouti, one, their, and,
+Nearest to on: in, by, for, and, of, as, agouti, at,
+Nearest to three: two, eight, six, nine, five, four, zero, dasyprocta,
+Nearest to united: agouti, gb, dasyprocta, circ, pelagius, courses, samos, sides,
+Nearest to his: the, their, s, bckgr, a, its, this, andy,
+Nearest to after: deke, company, in, antiproton, dasyprocta, moreover, at, and,
+Nearest to years: staunchly, agouti, six, four, one, five, sights, reigning,
+Nearest to it: he, which, this, agouti, fao, apatosaurus, exodus, waterways,
+Nearest to its: the, his, necronomicon, appeared, sx, dasyprocta, their, a,
+Nearest to most: affiliates, circa, agouti, lancashire, producing, breeders, circ, highway,
+Nearest to there: stevens, malignancies, indication, he, congregate, thanks, oceania, it,
+Average loss at step  22000 :  7.06635905898
+Average loss at step  24000 :  6.90067553043
+Average loss at step  26000 :  6.6898023684
+Average loss at step  28000 :  6.39208413982
+Average loss at step  30000 :  5.93487666118
+Nearest to use: suddenly, mishnayot, montparnasse, agouti, multicultural, apuleius, prescott, bckgr,
+Nearest to over: experts, expeditions, dissident, hamas, abet, eight, nitrogen, circ,
+Nearest to and: or, agouti, dasyprocta, operatorname, of, in, archie, circ,
+Nearest to two: three, four, five, six, one, eight, agouti, dasyprocta,
+Nearest to may: would, predators, can, to, arin, could, ulyanov, nine,
+Nearest to the: a, its, his, their, dasyprocta, this, agouti, one,
+Nearest to on: in, and, at, for, by, from, dasyprocta, agouti,
+Nearest to three: four, eight, two, five, six, nine, seven, zero,
+Nearest to united: agouti, gb, reuptake, aediles, samos, dasyprocta, fiery, pelagius,
+Nearest to his: their, the, s, its, bckgr, her, successful, nominate,
+Nearest to after: at, in, and, company, dasyprocta, deke, aedh, antiproton,
+Nearest to years: staunchly, six, five, agouti, four, sights, thrusters, variation,
+Nearest to it: he, this, which, agouti, apatosaurus, there, coke, spent,
+Nearest to its: the, their, his, a, dasyprocta, necronomicon, sx, appeared,
+Nearest to most: affiliates, circa, agouti, more, abet, lancashire, taliban, breeders,
+Nearest to there: it, they, he, malignancies, thanks, stevens, she, oceania,
+Average loss at step  32000 :  5.91947807848
+Average loss at step  34000 :  5.67183550847
+Average loss at step  36000 :  5.77517407632
+Average loss at step  38000 :  5.50387150741
+Average loss at step  40000 :  5.28751790917
+Nearest to use: agouti, multicultural, mishnayot, suddenly, montparnasse, apuleius, locations, bckgr,
+Nearest to over: expeditions, experts, dissident, nitrogen, zero, seven, six, hamas,
+Nearest to and: or, zero, agouti, dasyprocta, in, operatorname, circ, but,
+Nearest to two: three, one, four, five, six, seven, zero, eight,
+Nearest to may: would, can, predators, could, arin, ulyanov, to, conjunction,
+Nearest to the: his, their, zero, its, a, dasyprocta, this, agouti,
+Nearest to on: in, at, from, and, dasyprocta, heh, agouti, for,
+Nearest to three: four, six, five, seven, two, eight, zero, one,
+Nearest to united: agouti, rede, gb, reuptake, dasyprocta, aediles, pelagius, circ,
+Nearest to his: their, the, its, her, bckgr, s, zero, successful,
+Nearest to after: at, in, dasyprocta, company, hopf, corporatist, zero, aedh,
+Nearest to years: staunchly, four, agouti, six, sights, thrusters, zero, one,
+Nearest to it: he, this, which, zero, there, agouti, she, not,
+Nearest to its: their, the, his, dasyprocta, a, pci, sx, crossing,
+Nearest to most: affiliates, more, several, agouti, circa, some, abet, lancashire,
+Nearest to there: it, they, he, she, thanks, malignancies, oceania, stevens,
+Average loss at step  42000 :  5.36706887352
+Average loss at step  44000 :  5.26321772301
+Average loss at step  46000 :  5.21610575151
+Average loss at step  48000 :  5.21068248081
+Average loss at step  50000 :  5.01692349446
+Nearest to use: kapoor, agouti, multicultural, mishnayot, suddenly, montparnasse, apuleius, include,
+Nearest to over: seven, four, eight, experts, expeditions, three, abet, nitrogen,
+Nearest to and: or, agouti, but, dasyprocta, four, operatorname, six, eight,
+Nearest to two: three, four, one, six, five, agouti, seven, dasyprocta,
+Nearest to may: would, can, could, predators, to, arin, will, ulyanov,
+Nearest to the: their, his, a, its, this, agouti, dasyprocta, morita,
+Nearest to on: in, at, two, dasyprocta, agouti, from, heh, amalthea,
+Nearest to three: four, six, five, two, seven, eight, one, dasyprocta,
+Nearest to united: agouti, rede, gb, reuptake, samos, fiery, aediles, pelagius,
+Nearest to his: their, the, its, her, s, bckgr, many, successful,
+Nearest to after: hopf, company, from, at, in, dasyprocta, and, corporatist,
+Nearest to years: four, staunchly, thrusters, six, sights, modify, burali, agouti,
+Nearest to it: he, this, which, there, agouti, tdma, she, spent,
+Nearest to its: their, his, the, dasyprocta, pci, mukherjee, sx, agouti,
+Nearest to most: affiliates, more, several, circa, agouti, some, producing, kane,
+Nearest to there: they, it, he, she, malignancies, thanks, oceania, but,
+Average loss at step  52000 :  5.06414296305
+Average loss at step  54000 :  5.20758801222
+Average loss at step  56000 :  5.06739874005
+Average loss at step  58000 :  5.04824621761
+Average loss at step  60000 :  4.94494436669
+Nearest to use: agouti, ursus, kapoor, multicultural, mishnayot, include, dasyprocta, locations,
+Nearest to over: six, four, eight, expeditions, ursus, experts, nitrogen, gsm,
+Nearest to and: or, agouti, but, dasyprocta, ursus, kifl, operatorname, circ,
+Nearest to two: three, four, five, one, six, dasyprocta, agouti, ursus,
+Nearest to may: would, can, could, predators, will, must, to, arin,
+Nearest to the: their, its, ursus, dasyprocta, his, agouti, this, a,
+Nearest to on: in, at, dasyprocta, from, for, heh, amalthea, agouti,
+Nearest to three: four, five, six, two, eight, seven, dasyprocta, agouti,
+Nearest to united: agouti, rede, gb, reuptake, samos, pelagius, aediles, circ,
+Nearest to his: their, its, her, the, s, bckgr, ursus, pci,
+Nearest to after: when, before, hopf, six, dasyprocta, at, while, from,
+Nearest to years: four, ursus, hernando, staunchly, six, thrusters, agouti, modify,
+Nearest to it: he, this, which, there, she, ursus, they, agouti,
+Nearest to its: their, his, the, ursus, dasyprocta, mukherjee, pci, ifbb,
+Nearest to most: more, affiliates, several, some, ursus, agouti, arctos, lonesome,
+Nearest to there: they, it, he, she, thanks, malignancies, but, oceania,
+Average loss at step  62000 :  5.02087471116
+Average loss at step  64000 :  4.83936936897
+Average loss at step  66000 :  4.61372958136
+Average loss at step  68000 :  4.97494751084
+Average loss at step  70000 :  4.89429181075
+Nearest to use: agouti, ursus, kapoor, multicultural, callithrix, cebus, mishnayot, locations,
+Nearest to over: four, experts, eight, ursus, expeditions, gsm, nitrogen, narrowed,
+Nearest to and: or, agouti, but, cebus, dasyprocta, four, microcebus, ursus,
+Nearest to two: three, four, six, five, one, eight, seven, dasyprocta,
+Nearest to may: can, would, could, will, must, predators, should, arin,
+Nearest to the: their, dinar, ursus, its, his, this, cebus, a,
+Nearest to on: in, at, dasyprocta, amalthea, agouti, upon, from, heh,
+Nearest to three: four, six, five, two, eight, seven, dasyprocta, nine,
+Nearest to united: agouti, rede, gb, reuptake, pelagius, fiery, circ, aediles,
+Nearest to his: their, its, the, her, s, upanija, bckgr, cebus,
+Nearest to after: when, before, while, hopf, until, since, at, company,
+Nearest to years: hernando, ursus, staunchly, four, days, agouti, five, thrusters,
+Nearest to it: he, this, there, which, she, they, ursus, agouti,
+Nearest to its: their, his, the, dinar, ursus, dasyprocta, pci, ifbb,
+Nearest to most: more, affiliates, some, several, agouti, ursus, lonesome, circa,
+Nearest to there: they, it, she, he, thanks, malignancies, oceania, but,
+Average loss at step  72000 :  4.75560749459
+Average loss at step  74000 :  4.79509579301
+Average loss at step  76000 :  4.72641996098
+Average loss at step  78000 :  4.79805746484
+Average loss at step  80000 :  4.81074553424
+Nearest to use: agouti, multicultural, ursus, locations, linguists, kapoor, cebus, callithrix,
+Nearest to over: ursus, four, gsm, experts, expeditions, six, abet, nitrogen,
+Nearest to and: or, but, dasyprocta, pontificia, agouti, cebus, iit, microcebus,
+Nearest to two: three, five, six, four, one, seven, dasyprocta, agouti,
+Nearest to may: can, would, could, will, must, predators, should, might,
+Nearest to the: their, ursus, cebus, dinar, his, its, iit, dasyprocta,
+Nearest to on: in, dasyprocta, at, amalthea, and, through, agouti, upon,
+Nearest to three: four, five, six, two, seven, eight, one, nine,
+Nearest to united: agouti, fiery, rede, samos, pelagius, reuptake, gb, circ,
+Nearest to his: their, its, her, the, s, upanija, cebus, bckgr,
+Nearest to after: when, before, hopf, until, since, while, at, was,
+Nearest to years: hernando, ursus, days, staunchly, agouti, four, iit, qquad,
+Nearest to it: he, this, there, which, she, they, we, ursus,
+Nearest to its: their, his, the, dinar, ursus, her, pci, dasyprocta,
+Nearest to most: more, some, affiliates, several, ursus, agouti, many, arctos,
+Nearest to there: they, it, she, he, thanks, malignancies, which, oceania,
+Average loss at step  82000 :  4.76155137515
+Average loss at step  84000 :  4.75450665152
+Average loss at step  86000 :  4.77330310476
+Average loss at step  88000 :  4.75292685926
+Average loss at step  90000 :  4.72456621122
+Nearest to use: agouti, ursus, callithrix, kapoor, locations, cebus, linguists, multicultural,
+Nearest to over: chymotrypsin, ursus, gsm, thera, narrowed, keep, expeditions, experts,
+Nearest to and: or, but, agouti, iit, cebus, pontificia, dasyprocta, microcebus,
+Nearest to two: three, four, five, one, six, seven, dasyprocta, eight,
+Nearest to may: can, would, could, will, must, should, predators, might,
+Nearest to the: their, its, dinar, this, a, his, iit, ursus,
+Nearest to on: in, at, dasyprocta, amalthea, upon, through, from, agouti,
+Nearest to three: four, five, two, seven, six, eight, one, ursus,
+Nearest to united: agouti, peacocks, samos, rede, fiery, constitution, pelagius, circ,
+Nearest to his: their, her, its, the, s, bckgr, upanija, cebus,
+Nearest to after: when, before, hopf, while, until, since, during, at,
+Nearest to years: hernando, days, ursus, months, staunchly, agouti, qquad, vilified,
+Nearest to it: he, this, there, she, which, we, they, ursus,
+Nearest to its: their, his, the, her, dinar, ursus, pci, dasyprocta,
+Nearest to most: more, some, several, affiliates, many, agouti, ursus, arctos,
+Nearest to there: they, it, he, she, malignancies, thanks, oceania, but,
+Average loss at step  92000 :  4.68646330261
+Average loss at step  94000 :  4.71682423985
+Average loss at step  96000 :  4.69342900932
+Average loss at step  98000 :  4.59964965218
+Average loss at step  100000 :  4.68260346615
+Nearest to use: agouti, ursus, locations, callithrix, kapoor, cebus, linguists, multicultural,
+Nearest to over: chymotrypsin, keep, ursus, thera, gsm, three, narrowed, expeditions,
+Nearest to and: or, but, pontificia, agouti, dasyprocta, ursus, microcebus, iit,
+Nearest to two: three, four, five, one, seven, six, dasyprocta, eight,
+Nearest to may: can, would, could, will, must, should, might, predators,
+Nearest to the: their, its, ursus, his, dinar, cebus, a, dasyprocta,
+Nearest to on: in, upon, dasyprocta, through, amalthea, at, mitral, agouti,
+Nearest to three: four, five, seven, six, two, eight, dasyprocta, agouti,
+Nearest to united: agouti, samos, fiery, peacocks, constitution, rede, pelagius, clyde,
+Nearest to his: their, her, its, the, s, bckgr, upanija, cebus,
+Nearest to after: when, before, while, until, hopf, since, during, in,
+Nearest to years: days, hernando, ursus, months, staunchly, vilified, qquad, modify,
+Nearest to it: he, this, there, she, they, which, we, what,
+Nearest to its: their, his, the, her, dinar, ifbb, ursus, thibetanus,
+Nearest to most: more, some, many, several, affiliates, agouti, ursus, arctos,
+Nearest to there: they, it, he, she, usually, thanks, often, but,
