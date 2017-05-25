@@ -1,0 +1,44 @@
+<% include header.html %>
+
+    <h1>Connection String</h1>
+
+    <h2>
+        <%= title %>
+    </h2>
+
+    <div class="connection_string">
+
+        <p>Example Connection String </p>
+
+        <ul id="connection_string">
+            <% connection_string.forEach(function(detail){ %>
+                <li> <%= detail.name %> : <%= detail.content %> </li>
+                <% }) %>
+        </ul>
+
+        <form class="connection_string" action="/connection_string" method="POST">
+            <p>Please enter database connection details: </p>
+            <textarea rows="4" cols="50" input type="text" name="ConnectionStringTxt" placeholder="You can copy and paste the connection string into here..."></textarea><br> 
+            Server: <input type="text" name="Server"><br> 
+            Database: <input type="text" name="Database"><br>            
+            Username: <input type="text" name="Username"><br> 
+            Password: <input type="password" name="Password"><br>
+
+            <input type="submit" value="Submit" onclick='$(".select_table").show();'>
+        </form>
+    </div>
+
+    <div class="select_table" style="display: none">
+
+        <form class="select_table" action="/selected_table" method="POST">
+            <p>Please select from table:</p>
+            <select name="selected_table">
+            <% table_list.forEach(function(table){ %>
+        <option value= <%= table.name %>  name= <%= table.name %> > <%= table.name %></option>
+            <% }) %>
+        </select>
+            <input type="submit" value="Next">
+        </form>
+
+    </div>
+    <% include footer.html %>

@@ -1,0 +1,36 @@
+<% include header.html %>
+
+    <h1>Database Columns</h1>
+
+    <h2>
+       Selected Table: <%= title %>
+    </h2>
+
+    <form class="credit_score_columns" method="POST" action="/database_columns">
+        <fieldset>
+            <% database_columns.forEach(function(column){ %>
+
+                <input type="checkbox" name= <%= column.name %> value="Include" checked>
+                <%= column.name %>
+                    <select name= <%= column.name %> >
+                    <option value="Continous" name="Continous" > Continous</option>
+                    <option value="Categorical" name="Categorical" > Categorical</option>
+                </select>
+
+                    <br>
+                <% }) %>
+
+            <p> Please specify a target column: </p>
+            <p class="italic"> Currently we support only one target column per model. </p>
+            <select name="TargetColumn">
+                <% database_columns.forEach(function(column){ %>
+            <option value= <%= column.name %> name= <%= column.name %> > <%= column.name %></option>
+                <% }) %>
+            </select>
+
+        </fieldset>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <% include footer.html %>

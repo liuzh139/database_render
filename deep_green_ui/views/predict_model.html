@@ -1,0 +1,22 @@
+<% include header.html %>
+
+    <h1>Database Columns</h1>
+
+    <h2>
+       Selected Table: <%= title %>
+    </h2>
+
+    <form class="predict_model" method="POST" action="/predict_model">
+        <fieldset>
+            <% database_columns.forEach(function(column){ %>
+
+                <%= column.name %>
+                   <input type="text" name= <%= column.name %> ><br> 
+            <% }) %>
+
+        </fieldset>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <% include footer.html %>

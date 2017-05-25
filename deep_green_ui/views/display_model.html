@@ -1,0 +1,31 @@
+<% include header.html %>
+    <h1>Connection String</h1>
+
+    <h2>
+        Selected Table:
+        <%= title %>
+    </h2>
+
+    <p> Some explanation ... </p>
+
+    <div class="display_model">
+        <fieldset>
+            <ul>
+                <% model_detail.forEach(function(detail){ %>
+                    <li>
+                        <%= detail.name %> :
+                            <%= detail.value %>
+                                <% }) %>
+                    </li>
+            </ul>
+
+            <p> Some explanation ... </p>
+
+            <a href="http://localhost:6006">Visualization of the Model</a>
+            <a href="http://localhost:6006">Embeddings of the Model</a>
+            <a href="http://localhost:6006">How Does it Train</a>
+
+        </fieldset>
+    </div>
+    
+    <% include footer.html %>
